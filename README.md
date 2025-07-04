@@ -1,6 +1,6 @@
 
 
-# 👾 Welcome to My GitHub Profile!  
+# 👾 XRANIUM
 Hi there! I'm an **indie game developer** living my best (almost) life, one line of code at a time. 🎮✨  
 I love turning ideas into games, designing immersive experiences, and occasionally debugging until 3 AM. 
 
