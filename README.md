@@ -30,7 +30,7 @@ Here are the tools and technologies I use to bring my ideas to life:
 - 💡 Learning more about procedural generation and AI in games (so tedious but fun).
 - ☕ Learning backend development using .net(cause i need money too :') )
 
-- trying to keep it fun.
+- trying to make it all fun.
 
 ---
 
