@@ -28,6 +28,9 @@ Here are the tools and technologies I use to bring my ideas to life:
 - 🚀 Building my next indie game masterpiece(?).  
 - 🧪 Experimenting with new mechanics and game engines.  
 - 💡 Learning more about procedural generation and AI in games (so tedious but fun).
+- ☕ Learning backend development using .net(cause i need money too :') )
+
+- trying to keep it fun.
 
 ---
 
