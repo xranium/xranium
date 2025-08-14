@@ -1,8 +1,6 @@
 
 
-# 👾 XRANIUM
-Hi there! I'm an **indie game developer** living my best (almost) life, one line of code at a time. 🎮✨  
-I love turning ideas into games, designing immersive experiences, and occasionally debugging until 3 AM. 
+Indie gamedev and Juniour @dotnet develeoper here.
 
 ---
 
@@ -21,24 +19,5 @@ Here are the tools and technologies I use to bring my ideas to life:
 - 🌟 **Fun Fact:** My debugging skills improve exponentially after midnight. (until my game's afk grinding finally finishes)
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2300D1FF&lines=Unity+Developer;Game+Engine+Specialist" alt="Unity Animated Badge">
 
-
----
-
-## 🔥 What I’m Working On  
-- 🚀 Building my next indie game masterpiece(?).  
-- 🧪 Experimenting with new mechanics and game engines.  
-- 💡 Learning more about procedural generation and AI in games (so tedious but fun).
-- ☕ Learning backend development using .net(cause i need money too :') )
-
-- trying to make it all fun.
-
----
-
-## 📊 GitHub Stats  
-Check out my GitHub activity:  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xranium&theme=dark)
- 🎉 Fun Section  (nothing to see here(yet))
-
-### 💡 Random Developer Quote:  
+- trying to keep it all fun.
 > "A good programmer is someone who... ." – xranium  
