@@ -1,6 +1,6 @@
 
 
-Indie gamedev and Juniour @dotnet develeoper here.
+Indie gamedev and juniors @dotnet develeoper here.
 
 ---
 
